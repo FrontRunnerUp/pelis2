@@ -1,3 +1,6 @@
+# Tutorial de AngularJS partiendo de areai51/angular-seed
+Tutorial completado de angularJS basado en el repositorio areai51/angular-seed 
+
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
